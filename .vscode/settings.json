@@ -1,0 +1,8 @@
+{
+    "editor.formatOnSave": true,
+    // Enable prettier extenstion for js because it is not working by default for this language
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+  }
+  
